@@ -1,0 +1,12 @@
+C:\Amar\Debug\Debug\Apps\1\91\202304243246\test_a_25\test_a_25.DTO\obj\Debug\net7.0\test_a_25.DTO.csproj.AssemblyReference.cache
+C:\Amar\Debug\Debug\Apps\1\91\202304243246\test_a_25\test_a_25.DTO\obj\Debug\net7.0\test_a_25.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Debug\Apps\1\91\202304243246\test_a_25\test_a_25.DTO\obj\Debug\net7.0\test_a_25.DTO.AssemblyInfoInputs.cache
+C:\Amar\Debug\Debug\Apps\1\91\202304243246\test_a_25\test_a_25.DTO\obj\Debug\net7.0\test_a_25.DTO.AssemblyInfo.cs
+C:\Amar\Debug\Debug\Apps\1\91\202304243246\test_a_25\test_a_25.DTO\obj\Debug\net7.0\test_a_25.DTO.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Debug\Apps\1\91\202304243246\test_a_25\test_a_25.DTO\obj\Debug\net7.0\test_a_25.DTO.dll
+C:\Amar\Debug\Debug\Apps\1\91\202304243246\test_a_25\test_a_25.DTO\obj\Debug\net7.0\refint\test_a_25.DTO.dll
+C:\Amar\Debug\Debug\Apps\1\91\202304243246\test_a_25\test_a_25.DTO\obj\Debug\net7.0\test_a_25.DTO.pdb
+C:\Amar\Debug\Debug\Apps\1\91\202304243246\test_a_25\test_a_25.DTO\bin\Debug\net7.0\test_a_25.DTO.deps.json
+C:\Amar\Debug\Debug\Apps\1\91\202304243246\test_a_25\test_a_25.DTO\bin\Debug\net7.0\test_a_25.DTO.dll
+C:\Amar\Debug\Debug\Apps\1\91\202304243246\test_a_25\test_a_25.DTO\bin\Debug\net7.0\test_a_25.DTO.pdb
+C:\Amar\Debug\Debug\Apps\1\91\202304243246\test_a_25\test_a_25.DTO\obj\Debug\net7.0\ref\test_a_25.DTO.dll
